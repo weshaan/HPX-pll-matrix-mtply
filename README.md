@@ -1,2 +1,9 @@
-# HPX-pll-matrix-mtply
-Parallel matrix multiplication with HPX. build with CMake.
+# Parallel matrix multiplication with HPX.
+
+## Build
+```
+mkdir build
+cd build
+cmake ..
+make
+```
